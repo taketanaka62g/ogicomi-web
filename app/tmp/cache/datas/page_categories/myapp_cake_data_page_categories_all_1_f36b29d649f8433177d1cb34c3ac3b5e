@@ -1,0 +1,65 @@
+1560057682
+a:1:{i:0;a:2:{s:12:"PageCategory";a:3:{s:4:"name";s:4:"dept";s:5:"title";s:12:"専門部会";s:2:"id";s:1:"3";}s:4:"Page";a:8:{i:0;a:19:{s:2:"id";s:2:"12";s:4:"sort";s:2:"12";s:4:"name";s:5:"index";s:5:"title";s:24:"専門部会のページ";s:11:"description";s:0:"";s:8:"contents";s:2127:"<h1>このページでは荻川コミュニティ振興協議会の各専門部会の情報を発信しています。</h1>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width:500px;">
+	<tbody>
+		<tr>
+			<td width="30%">
+			<p><span style="font-size:18px;">専門部名</span></p>
+			</td>
+			<td width="40%">
+			<p><span style="font-size:18px;">主な活動内容</span></p>
+			</td>
+			<td width="30%">
+			<p><span style="font-size:18px;">コメント</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td><a href="/ogicomi/dept/soumu">総務部</a></td>
+			<td>
+			<p>広報おぎかわの発行、荻川まつりの企画、運営などを行っています。</p>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td><a href="/ogicomi/dept/hoken">保健体育部</a></td>
+			<td>バレーボール大会、卓球大会、ソフトボール大会、荻川地区市民運動会などの企画、運営を行っています。</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td><a href="/ogicomi/dept/bunka">文化教養部</a></td>
+			<td>荻川芸能祭、おぎかわ文化祭、アロマテラピー講座、ネット講演会などの企画、運営と荻川の文化財調査を行っています。</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td><a href="/ogicomi/dept/kankyou">環境整備部</a></td>
+			<td>コミセン構内の花壇の手入れ、樹木の剪定などを行っています。</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td><a href="/ogicomi/dept/seikatsu">生活福祉部</a></td>
+			<td>高齢者健康講座、交通安全教室、敬老会の企画、運営を行っています。</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td><a href="/ogicomi/dept/josei">女性部</a></td>
+			<td>社会見学、大人の料理教室、おぎかわ寄席などの企画、運営を行っています。</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td><a href="/ogicomi/dept/shougaigakushuu">生涯学習部</a></td>
+			<td>上期、下期それぞれ６回ずつ講座を開催しています。</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+";s:16:"page_category_id";s:1:"3";s:6:"status";s:1:"1";s:3:"url";s:11:"/dept/index";s:5:"draft";s:0:"";s:9:"author_id";s:1:"1";s:13:"publish_begin";N;s:11:"publish_end";N;s:14:"exclude_search";s:1:"0";s:4:"code";s:0:"";s:15:"unlinked_mobile";N;s:19:"unlinked_smartphone";N;s:8:"modified";s:19:"2016-09-12 21:48:52";s:7:"created";s:19:"2016-09-12 14:55:09";}i:1;a:19:{s:2:"id";s:2:"13";s:4:"sort";s:2:"13";s:4:"name";s:5:"soumu";s:5:"title";s:21:"総務部のページ";s:11:"description";s:0:"";s:8:"contents";s:81:"<p>このページでは「総務部」の情報を発信しています。</p>
+";s:16:"page_category_id";s:1:"3";s:6:"status";s:1:"1";s:3:"url";s:11:"/dept/soumu";s:5:"draft";s:0:"";s:9:"author_id";s:1:"1";s:13:"publish_begin";N;s:11:"publish_end";N;s:14:"exclude_search";s:1:"0";s:4:"code";s:0:"";s:15:"unlinked_mobile";N;s:19:"unlinked_smartphone";N;s:8:"modified";s:19:"2016-09-12 15:00:30";s:7:"created";s:19:"2016-09-12 14:56:00";}i:2;a:19:{s:2:"id";s:2:"14";s:4:"sort";s:2:"14";s:4:"name";s:5:"hoken";s:5:"title";s:27:"保健体育部のページ";s:11:"description";s:0:"";s:8:"contents";s:87:"<p>このページでは「保健体育部」の情報を発信しています。</p>
+";s:16:"page_category_id";s:1:"3";s:6:"status";s:1:"1";s:3:"url";s:11:"/dept/hoken";s:5:"draft";s:0:"";s:9:"author_id";s:1:"1";s:13:"publish_begin";N;s:11:"publish_end";N;s:14:"exclude_search";s:1:"0";s:4:"code";s:0:"";s:15:"unlinked_mobile";N;s:19:"unlinked_smartphone";N;s:8:"modified";s:19:"2016-09-12 15:07:45";s:7:"created";s:19:"2016-09-12 15:07:45";}i:3;a:19:{s:2:"id";s:2:"15";s:4:"sort";s:2:"15";s:4:"name";s:5:"bunka";s:5:"title";s:27:"文化教養部のページ";s:11:"description";s:0:"";s:8:"contents";s:87:"<p>このページでは「文化教養部」の情報を発信しています。</p>
+";s:16:"page_category_id";s:1:"3";s:6:"status";s:1:"1";s:3:"url";s:11:"/dept/bunka";s:5:"draft";s:0:"";s:9:"author_id";s:1:"1";s:13:"publish_begin";N;s:11:"publish_end";N;s:14:"exclude_search";s:1:"0";s:4:"code";s:0:"";s:15:"unlinked_mobile";N;s:19:"unlinked_smartphone";N;s:8:"modified";s:19:"2016-09-12 15:20:25";s:7:"created";s:19:"2016-09-12 15:08:29";}i:4;a:19:{s:2:"id";s:2:"16";s:4:"sort";s:2:"16";s:4:"name";s:7:"kankyou";s:5:"title";s:27:"環境整備部のページ";s:11:"description";s:0:"";s:8:"contents";s:87:"<p>このぺーじでは「環境整備部」の情報を発信しています。</p>
+";s:16:"page_category_id";s:1:"3";s:6:"status";s:1:"1";s:3:"url";s:13:"/dept/kankyou";s:5:"draft";s:0:"";s:9:"author_id";s:1:"1";s:13:"publish_begin";N;s:11:"publish_end";N;s:14:"exclude_search";s:1:"0";s:4:"code";s:0:"";s:15:"unlinked_mobile";N;s:19:"unlinked_smartphone";N;s:8:"modified";s:19:"2016-09-12 15:20:26";s:7:"created";s:19:"2016-09-12 15:09:27";}i:5;a:19:{s:2:"id";s:2:"17";s:4:"sort";s:2:"17";s:4:"name";s:8:"seikatsu";s:5:"title";s:27:"生活福祉部のページ";s:11:"description";s:0:"";s:8:"contents";s:87:"<p>このページでは「生活福祉部」の情報を発信しています。</p>
+";s:16:"page_category_id";s:1:"3";s:6:"status";s:1:"1";s:3:"url";s:14:"/dept/seikatsu";s:5:"draft";s:0:"";s:9:"author_id";s:1:"1";s:13:"publish_begin";N;s:11:"publish_end";N;s:14:"exclude_search";s:1:"0";s:4:"code";s:0:"";s:15:"unlinked_mobile";N;s:19:"unlinked_smartphone";N;s:8:"modified";s:19:"2016-09-12 15:22:28";s:7:"created";s:19:"2016-09-12 15:10:14";}i:6;a:19:{s:2:"id";s:2:"18";s:4:"sort";s:2:"18";s:4:"name";s:5:"josei";s:5:"title";s:21:"女性部のページ";s:11:"description";s:0:"";s:8:"contents";s:81:"<p>このページでは「女性部」の情報を発信しています。</p>
+";s:16:"page_category_id";s:1:"3";s:6:"status";s:1:"1";s:3:"url";s:11:"/dept/josei";s:5:"draft";s:0:"";s:9:"author_id";s:1:"1";s:13:"publish_begin";N;s:11:"publish_end";N;s:14:"exclude_search";s:1:"0";s:4:"code";s:0:"";s:15:"unlinked_mobile";N;s:19:"unlinked_smartphone";N;s:8:"modified";s:19:"2016-09-12 15:22:29";s:7:"created";s:19:"2016-09-12 15:11:08";}i:7;a:19:{s:2:"id";s:2:"19";s:4:"sort";s:2:"19";s:4:"name";s:15:"shougaigakushuu";s:5:"title";s:27:"生涯学習部のページ";s:11:"description";s:0:"";s:8:"contents";s:87:"<p>このページでは「生涯学習部」の情報を発信しています。</p>
+";s:16:"page_category_id";s:1:"3";s:6:"status";s:1:"1";s:3:"url";s:21:"/dept/shougaigakushuu";s:5:"draft";s:0:"";s:9:"author_id";s:1:"1";s:13:"publish_begin";N;s:11:"publish_end";N;s:14:"exclude_search";s:1:"0";s:4:"code";s:0:"";s:15:"unlinked_mobile";N;s:19:"unlinked_smartphone";N;s:8:"modified";s:19:"2016-09-12 15:22:31";s:7:"created";s:19:"2016-09-12 15:12:29";}}}}

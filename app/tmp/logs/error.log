@@ -1,0 +1,2 @@
+2016-09-12 15:17:37 Error: Fatal Error (1): Call to a member function query() on a non-object in [/Library/WebServer/Documents/ogikomi/lib/Baser/Model/Datasource/Database/BcSqlite.php, line 148]
+2016-09-12 15:17:47 Error: Fatal Error (1): Call to a member function query() on a non-object in [/Library/WebServer/Documents/ogikomi/lib/Baser/Model/Datasource/Database/BcSqlite.php, line 148]

@@ -1,0 +1,93 @@
+2016-09-11 20:17:55 Notice: Notice (8): Undefined index: contentId in [/Library/WebServer/Documents/basercms/lib/Baser/Plugin/Blog/Controller/BlogController.php, line 546]
+Trace:
+BlogController::_getBlogPosts() - CORE/Baser/Plugin/Blog/Controller/BlogController.php, line 546
+BlogController::index() - CORE/Baser/Plugin/Blog/Controller/BlogController.php, line 172
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 151
+
+2016-09-11 21:58:51 Notice: Notice (8): Undefined index: contentId in [/Library/WebServer/Documents/basercms/lib/Baser/Plugin/Blog/Controller/BlogController.php, line 546]
+Trace:
+BlogController::_getBlogPosts() - CORE/Baser/Plugin/Blog/Controller/BlogController.php, line 546
+BlogController::index() - CORE/Baser/Plugin/Blog/Controller/BlogController.php, line 172
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 151
+
+2016-09-11 22:52:21 Notice: Notice (8): Undefined index: contentId in [/Library/WebServer/Documents/basercms/lib/Baser/Plugin/Blog/Controller/BlogController.php, line 546]
+Trace:
+BlogController::_getBlogPosts() - CORE/Baser/Plugin/Blog/Controller/BlogController.php, line 546
+BlogController::index() - CORE/Baser/Plugin/Blog/Controller/BlogController.php, line 172
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 151
+
+2016-09-12 15:04:43 Notice: Notice (8): Undefined index: Page in [/Library/WebServer/Documents/basercms/lib/Baser/Controller/PagesController.php, line 812]
+Trace:
+PagesController::admin_preview() - CORE/Baser/Controller/PagesController.php, line 812
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 151
+
+2016-09-12 15:04:43 Notice: Notice (8): Undefined index: Page in [/Library/WebServer/Documents/basercms/lib/Baser/Controller/PagesController.php, line 812]
+Trace:
+PagesController::admin_preview() - CORE/Baser/Controller/PagesController.php, line 812
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 151
+
+2016-09-12 15:04:43 Notice: Notice (8): Undefined index: Page in [/Library/WebServer/Documents/basercms/lib/Baser/Controller/PagesController.php, line 812]
+Trace:
+PagesController::admin_preview() - CORE/Baser/Controller/PagesController.php, line 812
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 151
+
+2016-09-12 15:04:43 Notice: Notice (8): Undefined index: Page in [/Library/WebServer/Documents/basercms/lib/Baser/Controller/PagesController.php, line 812]
+Trace:
+PagesController::admin_preview() - CORE/Baser/Controller/PagesController.php, line 812
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 151
+
+2016-09-12 15:04:43 Notice: Notice (8): Undefined index: Page in [/Library/WebServer/Documents/basercms/lib/Baser/Controller/PagesController.php, line 823]
+Trace:
+PagesController::admin_preview() - CORE/Baser/Controller/PagesController.php, line 823
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 151
+
+2016-09-12 15:04:43 Notice: Notice (8): Undefined index: Page in [/Library/WebServer/Documents/basercms/lib/Baser/Controller/PagesController.php, line 823]
+Trace:
+PagesController::admin_preview() - CORE/Baser/Controller/PagesController.php, line 823
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 151
+
+2016-09-12 15:04:43 Notice: Notice (8): Undefined index: Page in [/Library/WebServer/Documents/basercms/lib/Baser/Controller/PagesController.php, line 842]
+Trace:
+PagesController::admin_preview() - CORE/Baser/Controller/PagesController.php, line 842
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 151
+
