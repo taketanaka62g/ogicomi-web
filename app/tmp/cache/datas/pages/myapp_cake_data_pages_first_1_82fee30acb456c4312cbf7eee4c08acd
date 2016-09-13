@@ -1,0 +1,15 @@
+1560060901
+a:1:{i:0;a:3:{s:4:"Page";a:19:{s:2:"id";s:1:"1";s:4:"sort";s:1:"1";s:4:"name";s:5:"index";s:5:"title";s:0:"";s:11:"description";s:0:"";s:8:"contents";s:358:"<div class="clearfix" id="news">
+<div class="news" style="margin-right:28px;">
+<h2 id="newsHead01">ニュース</h2>
+
+<div class="body"><?php $this->BcBaser->blogPosts('news', 5) ?></div>
+</div>
+
+<div class="news">
+<h2 id="newsHead02">イベント情報</h2>
+
+<div class="body"><?php $this->BcBaser->blogPosts('event', 5) ?></div>
+</div>
+</div>
+";s:16:"page_category_id";N;s:6:"status";s:1:"1";s:3:"url";s:6:"/index";s:5:"draft";s:0:"";s:9:"author_id";s:1:"1";s:13:"publish_begin";N;s:11:"publish_end";N;s:14:"exclude_search";s:1:"0";s:4:"code";s:0:"";s:15:"unlinked_mobile";s:1:"0";s:19:"unlinked_smartphone";s:1:"0";s:8:"modified";s:19:"2016-09-12 22:17:19";s:7:"created";s:19:"2016-09-12 14:42:25";}s:12:"PageCategory";a:13:{s:2:"id";N;s:9:"parent_id";N;s:3:"lft";N;s:4:"rght";N;s:4:"name";N;s:5:"title";N;s:4:"sort";N;s:13:"contents_navi";N;s:8:"owner_id";N;s:15:"layout_template";N;s:16:"content_template";N;s:8:"modified";N;s:7:"created";N;}s:4:"User";a:10:{s:2:"id";s:1:"1";s:4:"name";s:15:"takenori_tanaka";s:8:"password";s:40:"349003536106d2e97a9838078fbb2a5a3b328b12";s:11:"real_name_1";s:15:"takenori_tanaka";s:11:"real_name_2";s:0:"";s:5:"email";s:30:"takenori_tanaka@niigata-sl.com";s:13:"user_group_id";s:1:"1";s:8:"nickname";s:0:"";s:7:"created";s:19:"2016-09-11 19:56:51";s:8:"modified";s:19:"2016-09-12 15:55:32";}}}
