@@ -6,14 +6,14 @@
 
 <div class="clearfix" id="news">
 <div class="news" style="margin-right:28px;">
-<h2 id="newsHead01">ニュース</h2>
+<h2 id="newsHead01">ニュース
 
-<div class="body"><?php $this->BcBaser->blogPosts('news', 5) ?></div>
+<div class="body"><?php $this->BcBaser->blogPosts('news', 5) ?></div></h2>
 </div>
 
 <div class="news">
-<h2 id="newsHead02">イベント情報</h2>
+<h2 id="newsHead02">イベント情報
 
-<div class="body"><?php $this->BcBaser->blogPosts('event', 5) ?></div>
+<div class="body"><?php $this->BcBaser->blogPosts('event', 5) ?></div></h2>
 </div>
 </div>

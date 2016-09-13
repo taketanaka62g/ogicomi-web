@@ -41,7 +41,7 @@
 		</div>
 	</div>
 
-	<!--FB-->
+	<!--FB
 	<div id="fb-root"></div>
 	<script>(function(d, s, id) {
 			var js, fjs = d.getElementsByTagName(s)[0];
@@ -52,6 +52,6 @@
 		}(document, 'script', 'facebook-jssdk'));
 	</script>
 	<div class="fb-like-box" data-href="http://www.facebook.com/basercms" data-height="300" data-width="214" data-show-faces="true" data-stream="false" data-border-color="#DDDDDD" data-header="false"></div>
-	<!--FB_END-->
+	FB_END-->
 
 </div><!--Alfa-->

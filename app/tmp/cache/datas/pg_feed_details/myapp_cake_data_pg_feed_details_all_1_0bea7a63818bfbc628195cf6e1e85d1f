@@ -1,2 +1,0 @@
-1560051073
-a:1:{i:0;a:2:{s:10:"FeedDetail";a:8:{s:2:"id";s:1:"1";s:14:"feed_config_id";s:1:"1";s:4:"name";s:20:"baserCMSニュース";s:3:"url";s:34:"http://basercms.net/news/index.rss";s:15:"category_filter";s:0:"";s:10:"cache_time";s:11:"+30 minutes";s:7:"created";s:19:"2016-09-12 14:42:27";s:8:"modified";N;}s:10:"FeedConfig";a:8:{s:2:"id";s:1:"1";s:4:"name";s:20:"baserCMSニュース";s:16:"feed_title_index";s:0:"";s:14:"category_index";s:0:"";s:8:"template";s:7:"default";s:14:"display_number";s:1:"5";s:7:"created";s:19:"2016-09-12 14:42:27";s:8:"modified";N;}}}

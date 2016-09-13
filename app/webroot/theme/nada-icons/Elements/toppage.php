@@ -13,20 +13,6 @@
 	<div id="top-contents-main">
 		<div id="top-bnr">
 			<div id="top-bnr-left">
-				<?php $this->BcBaser->img('../../../files/uploads/広報おぎかわs.jpg', array('url' => 'http://www.city.niigata.lg.jp/akiha/torikumi/com/ogikawa.html')); ?>
-				<p>広報おぎかわの各号を閲覧できます。（新潟市のサイトへ移動します）</p>
-			</div>
-			<div id="top-bnr-right">
-				<h1>
-					<a href="https://www.city.niigata.lg.jp/akiha/">秋葉区の公式ホームページへ</a><br/>
-					<a href="https://www.city.niigata.lg.jp/">新潟市の公式ホームページへ</a><br/>
-				</h1>
-			</div>
-		</div>
-	</div>
-	<div id="top-contents-main">
-		<div id="top-bnr">
-			<div id="top-bnr-left">
 				<h1>
 					<?php $this->BcBaser->img('../../../files/uploads/552879.jpg', array('url' => '#')); ?>
 					<p>
@@ -61,6 +47,36 @@
 			</div>
 			<div id="top-bnr-right">
 				<h1>
+				</h1>
+			</div>
+		</div>
+	</div>
+	<div id="top-contents-main">
+		<div id="top-bnr">
+			<div id="top-bnr-left">
+				<h1>
+					<?php $this->BcBaser->img('../../../files/uploads/075037.jpg', array('url' => '#')); ?>
+					<p>
+						<a href="/ogicomi/ogikawa_news">地域のニュース</a><br/>
+					</p>
+				</h1>
+			</div>
+			<div id="top-bnr-right">
+				<h1>
+				</h1>
+			</div>
+		</div>
+	</div>
+	<div id="top-contents-main">
+		<div id="top-bnr">
+			<div id="top-bnr-left">
+				<?php $this->BcBaser->img('../../../files/uploads/広報おぎかわs.jpg', array('url' => 'http://www.city.niigata.lg.jp/akiha/torikumi/com/ogikawa.html')); ?>
+				<p>広報おぎかわの各号を閲覧できます。（新潟市のサイトへ移動します）</p>
+			</div>
+			<div id="top-bnr-right">
+				<h1>
+					<a href="https://www.city.niigata.lg.jp/akiha/">秋葉区の公式ホームページへ</a><br/>
+					<a href="https://www.city.niigata.lg.jp/">新潟市の公式ホームページへ</a><br/>
 				</h1>
 			</div>
 		</div>
